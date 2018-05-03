@@ -12,3 +12,12 @@
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+
+# Mac OS stuff
+.DS_Store
+
+# Bazel build
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-testlogs
