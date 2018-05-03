@@ -1,0 +1,6 @@
+version: '3.6'
+services:
+  hello:
+    image: insready/bazel
+    volumes:
+      - .:/usr/src/app

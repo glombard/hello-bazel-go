@@ -18,6 +18,7 @@
 
 # Bazel build
 bazel-hello-bazel-go
+bazel-app
 bazel-bin
 bazel-genfiles
 bazel-out
