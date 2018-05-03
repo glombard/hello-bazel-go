@@ -17,6 +17,7 @@
 .DS_Store
 
 # Bazel build
+bazel-hello-bazel-go
 bazel-bin
 bazel-genfiles
 bazel-out
